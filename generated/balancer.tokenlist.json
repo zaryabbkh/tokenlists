@@ -16179,6 +16179,26 @@
             "name": "Static Aave Ethereum USDT",
             "symbol": "stataEthUSDT",
             "decimals": 6
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x6DA08364fbEEe5A2ee8E596F3Db6170B147Cad20",
+            "name": "GGGGGG",
+            "symbol": "GXX1",
+            "decimals": 2,
+            "extensions": {
+                "coingeckoId": "balancer"
+            }
+        },
+        {
+            "chainId": 11155111,
+            "address": "0x9D6664Ad3bbEf76a2A0DF759DaDBF29D8c8D54E2",
+            "name": "Tether",
+            "symbol": "UXXX1",
+            "decimals": 18,
+            "extensions": {
+                "coingeckoId": "tether"
+            }
         }
     ]
 }
